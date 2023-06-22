@@ -64,9 +64,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
+	'hostname' => 'db1-php.cudeehlpj0nq.eu-west-2.rds.amazonaws.com',
+	'username' => 'admin',
+	'password' => 'Ajax1php_db',
 	'database' => 'school',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
