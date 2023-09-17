@@ -64,10 +64,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'db1-php.cudeehlpj0nq.eu-west-2.rds.amazonaws.com',
+	'hostname' => 'schhooldb-1.cudeehlpj0nq.eu-west-2.rds.amazonaws.com'
 	'username' => 'admin',
-	'password' => 'Ajax1php_db',
-	'database' => 'ajaxmaster_db',
+	'password' => 'g5p4JdxhnGEWOnkPY3M6',
+	'database' => 'schhooldb-1',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
